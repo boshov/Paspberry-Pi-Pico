@@ -15,7 +15,7 @@
 - 8 × Programmable I/O (PIO) state machines for custom peripheral support
 
 <p align="center">
-  <img width="700" height="700" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/raspberry-pi-pico-1.jpg">
+  <img width=450" height="450" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/raspberry-pi-pico-1.jpg">
 </p>
 
 ## RP2040
