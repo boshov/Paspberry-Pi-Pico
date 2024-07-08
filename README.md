@@ -14,6 +14,10 @@
 - Accelerated floating-point libraries on-chip
 - 8 × Programmable I/O (PIO) state machines for custom peripheral support
 
+<p align="center">
+  <img width="700" height="700" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/raspberry-pi-pico-1.jpg">
+</p>
+
 ## RP2040
 [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf) is manufactured on a modern 40nm process node, delivering high performance, low dynamic power
 consumption, and low leakage, with a variety of low-power modes to support extended-duration operation on battery
