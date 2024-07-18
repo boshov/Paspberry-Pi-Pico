@@ -18,6 +18,8 @@ Temperature = 28.25 C
 ==============
 ```
 
+## OLED Demo 
+
 <p align="center">
 <img width=500" height="450" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/oled-video.gif"
 </p>
