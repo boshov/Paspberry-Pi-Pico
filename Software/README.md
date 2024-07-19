@@ -22,7 +22,7 @@ so that only one wire (and ground) needs to be connected from a central micropro
 - [Onewire](https://github.com/PaulStoffregen/OneWire)
 - [Dallas temperature](https://github.com/jmchiappa/DallasTemperature)
 
-## RP2040 - Epaper - GDEY029T94
+## RP2040 - Epaper Display - GDEY029T94
 [GDEY029T94](https://store.comet.bg/en/Catalogue/Product/46503/) is a 2.9 inch SPI e-paper display. This display showcases black and white images indefinitely without power via SPI interface with 296x128 resolution.
 
 ### Libraries used for Epaper
@@ -34,8 +34,6 @@ so that only one wire (and ground) needs to be connected from a central micropro
 [WEA012864DLPP3N00003](https://store.comet.bg/download-file.php?id=21559) is an OLED display module made of 128x64 pixels, diagonal size 0.96 inch. This module is built in with SSD1306 IC, it supports I2C (default), SPI interface optional, VCC 3V /5V, I/O level 5V to 3V, with conversion circuit, 1/64 duty cycle. 
 
 ### Libraries used for OLED
-- SPI - This library is bundled with every Arduino platform
-- Wire - This library is bundled with every Arduino platform
 - [Adafruit_GFX](https://github.com/adafruit/Adafruit-GFX-Library?utm_source=platformio&utm_medium=piohome)
 - [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306?utm_source=platformio&utm_medium=piohome) - 2.5.1
 - [Adafruit BusIO](https://github.com/adafruit/Adafruit_BusIO?utm_source=platformio&utm_medium=piohome)
