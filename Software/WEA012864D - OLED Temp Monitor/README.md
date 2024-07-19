@@ -1,3 +1,12 @@
+## Wiring
+| OLED display  | Raspberry Pi Pico |
+| ------------- | ------------- |
+| VCC  | 3.3V |
+| GND  | GND |
+| SCL  | GPIO 5 |
+| SDA  | GPIO 4 |
+
+
 ## Output
 ```
 ADC Value   = 1186
