@@ -44,3 +44,7 @@ Key features:
 - MCP9701A - Analog temperature sensor
 - DHT11 - Digitial temperature and humidity sensor
 - DS18B20 - Digital temperature sensor
+
+## Embedded displays for RP2040
+- GDEY029T94 - Epaper display
+- WEA012864D - OLED 
