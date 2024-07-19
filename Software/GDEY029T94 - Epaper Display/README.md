@@ -33,5 +33,5 @@ Temperature = 28.54 C
 </p>
 
 <p align="center">
-  <img width=500" height="370" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/Epaper-monitor.jpg"/>
+  <img width=500" height="380" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/Epaper-monitor.jpg"/>
 </p>
