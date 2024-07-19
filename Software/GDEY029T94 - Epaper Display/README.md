@@ -29,5 +29,9 @@ Temperature = 28.54 C
 ## Epaper Display Demo 
 
 <p align="center">
-  <img width=500" height="420" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/Epaper-image.jpg"/> <img width=500" height="420" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/Epaper-monitor.jpg"/>
+  <img width=500" height="420" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/Epaper-image.jpg"/> 
+</p>
+
+<p align="center">
+  <img width=500" height="370" src="https://github.com/boshov/Paspberry-Pi-Pico/blob/main/Documents/Epaper-monitor.jpg"/>
 </p>
