@@ -38,6 +38,12 @@ so that only one wire (and ground) needs to be connected from a central micropro
 - [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306?utm_source=platformio&utm_medium=piohome) - 2.5.1
 - [Adafruit BusIO](https://github.com/adafruit/Adafruit_BusIO?utm_source=platformio&utm_medium=piohome)
 
+## RP2040 - Radio Frequency Reader - RFID-RC522
+[RC522](https://store.comet.bg/Catalogue/Product/14481/) is the highly integrated RFID card reader which works on non-contact 13.56mhz communication, is designed by NXP as low power consumption, low cost and compact size read and write chip
+
+### Libraries used for RC522
+- [MFRC522](https://github.com/miguelbalboa/rfid)
+
 ## Used Software
 - [Visual Studio Code](https://code.visualstudio.com/) version 1.91.0
 - [PlatformIO](https://platformio.org/) Core Version 6.1.15
